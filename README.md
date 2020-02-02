@@ -2,4 +2,4 @@
 > Shadowsocks pac file
 
 ##### url
-https://raw.githubusercontent.com/raozhanping/pac/master/pac.js
+https://raw.githubusercontent.com/raozhanping/pac/master/pac.txt
