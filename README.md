@@ -1,0 +1,2 @@
+# PAC
+> Shadowsocks pac file
